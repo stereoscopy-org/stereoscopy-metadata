@@ -1,0 +1,17 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about="" xmlns:stereo="https://stereoscopy.org/ns/stereo/1.0/" stereo:Format="google-vr">
+      <stereo:ViewSet>
+        <rdf:Seq>
+          <rdf:li rdf:parseType="Resource">
+            <stereo:Perspective>left-eye</stereo:Perspective>
+            <stereo:Primary>True</stereo:Primary>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stereo:Perspective>right-eye</stereo:Perspective>
+          </rdf:li>
+        </rdf:Seq>
+      </stereo:ViewSet>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>
